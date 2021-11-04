@@ -3,10 +3,63 @@
     <title>Planète a restaurer</title>
     <link href="https://www.planetearestaurer.com/feed.xml" rel="self" />
     <link href="https://www.planetearestaurer.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-11-04T17:18:26+01:00</updated>
     <author>
         <name>Michaël</name>
     </author>
     <id>https://www.planetearestaurer.com</id>
 
+    <entry>
+        <title>Faire ses propres tablettes de Lave-Vaisselle</title>
+        <author>
+            <name>Michaël</name>
+        </author>
+        <link href="https://www.planetearestaurer.com/faire-ses-propres-tablettes-de-lave-vaisselle.html"/>
+        <id>https://www.planetearestaurer.com/faire-ses-propres-tablettes-de-lave-vaisselle.html</id>
+            <category term="recettes"/>
+
+        <updated>2021-11-04T17:18:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Voici une recette pour faire ses tablettes de lave-vaiselle éco responsable! Vu les produits, n'utilisez ce matériel que pour cet usage. Placez&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><br><br></p>
+<p>Voici une recette pour faire ses tablettes de lave-vaiselle éco responsable!</p>
+<h6>Les ingrédients:</h6>
+<ul style="list-style-type: circle;">
+<li>60g de Bicarbonate de soude</li>
+<li>60g de Cristaux de Soude</li>
+<li>60gr d'Acide Citrique en poudre</li>
+<li>60gr de gros sel (alimentaire)</li>
+<li>60ml d'eau</li>
+</ul>
+<h6>Matériel</h6>
+<ul>
+<li class="align-left">Un bac a glaçons </li>
+<li>Un petit vaporisateur pour l'eau</li>
+<li>une spatule (non métalique)</li>
+<li>Un saladier (non métalique)</li>
+</ul>
+<p class="msg msg--highlight ">Vu les produits, n'utilisez ce matériel que pour cet usage.</p>
+<p> </p>
+<h6>Recette</h6>
+<p>Placez l'eau dans le vaporisateur. </p>
+<p>Pesez vos ingrédients et placez les dans le saladier. Mélanger la poudre de manière homogène.  Avec le spray humidifier la poudre  en la mélangeant (il ne faut pas "tremper" la solution)</p>
+<p>Le but ici est bien d'humidifier pour permettre la manipulation de la poudre et la rendre légèrement maléable. Il faut éviter de faire mousser le mélange.</p>
+<p>Remplissez ensuite le bac a glaçons, il est important de bien tasser sinon les pastilles risquent de se défaire après démoulage.  </p>
+<p>Laissez reposer et sécher 24H. Le mélange va durcir.</p>
+<p>Ensuite, démoulez et placer les pastilles au sec dans un bocal par exemple.</p>
+<p> </p>
+<p>N'hésitez pas à mettre vos commentaires.</p>
+<p> </p>
+<p>Michaël</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
