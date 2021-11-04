@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Planète a restaurer",
+    "description": "",
+    "home_page_url": "https://www.planetearestaurer.com",
+    "feed_url": "https://www.planetearestaurer.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michaël"
+    },
+    "items": [
+    ]
+}

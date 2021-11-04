@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Planète a restaurer</title>
+    <link href="https://www.planetearestaurer.com/feed.xml" rel="self" />
+    <link href="https://www.planetearestaurer.com" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Michaël</name>
+    </author>
+    <id>https://www.planetearestaurer.com</id>
+
+</feed>
