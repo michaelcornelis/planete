@@ -3,7 +3,7 @@
     <title>Planète a restaurer</title>
     <link href="https://www.planetearestaurer.com/feed.xml" rel="self" />
     <link href="https://www.planetearestaurer.com" />
-    <updated>2021-11-04T17:18:26+01:00</updated>
+    <updated>2022-01-07T14:51:38+01:00</updated>
     <author>
         <name>Michaël</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.planetearestaurer.com/faire-ses-propres-tablettes-de-lave-vaisselle/</id>
             <category term="Recettes"/>
 
-        <updated>2021-11-04T17:18:26+01:00</updated>
+        <updated>2022-01-07T14:51:38+01:00</updated>
             <summary>
                 <![CDATA[
                      Voici une recette pour faire ses tablettes de lave-vaiselle éco responsable! Vu les produits, n'utilisez ce matériel que pour cet usage. Placez&hellip;
@@ -26,7 +26,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><br><br></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.planetearestaurer.com/media/posts/1/tablette-lave-vaisselle.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.planetearestaurer.com/media/posts/1/responsive/tablette-lave-vaisselle-xs.jpg 300w ,https://www.planetearestaurer.com/media/posts/1/responsive/tablette-lave-vaisselle-sm.jpg 480w ,https://www.planetearestaurer.com/media/posts/1/responsive/tablette-lave-vaisselle-md.jpg 768w ,https://www.planetearestaurer.com/media/posts/1/responsive/tablette-lave-vaisselle-lg.jpg 1024w ,https://www.planetearestaurer.com/media/posts/1/responsive/tablette-lave-vaisselle-xl.jpg 1360w ,https://www.planetearestaurer.com/media/posts/1/responsive/tablette-lave-vaisselle-2xl.jpg 1600w"  alt="Tablette lave-vaisselle" width="640" height="425"></figure><br><br></p>
 <p>Voici une recette pour faire ses tablettes de lave-vaiselle éco responsable!</p>
 <h6>Les ingrédients:</h6>
 <ul style="list-style-type: circle;">
@@ -47,7 +47,7 @@
 <p> </p>
 <h6>Recette</h6>
 <p>Placez l'eau dans le vaporisateur. </p>
-<p>Pesez vos ingrédients et placez les dans le saladier. Mélanger la poudre de manière homogène.  Avec le spray humidifier la poudre  en la mélangeant (il ne faut pas "tremper" la solution)</p>
+<p>Pesez vos ingrédients et placez les dans le saladier. Mélanger la poudre de manière homogène.  Avec le spray humidifier très légèrement la poudre  en la mélangeant (il ne faut pas "tremper" la solution)</p>
 <p>Le but ici est bien d'humidifier pour permettre la manipulation de la poudre et la rendre légèrement maléable. Il faut éviter de faire mousser le mélange.</p>
 <p>Remplissez ensuite le bac a glaçons, il est important de bien tasser sinon les pastilles risquent de se défaire après démoulage.  </p>
 <p>Laissez reposer et sécher 24H. Le mélange va durcir.</p>
